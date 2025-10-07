@@ -37,6 +37,3 @@ I'm a geologist with a keen interest in economic geology, geochemistry, and spat
 - Permutation testing
 - Spatial autocorrelation
 - Cluster analysis
-
-👯 **I’m looking to collaborate on:**
-- Any problem 
