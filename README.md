@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hello, I'm Nathan 👋
 
-<!--
-**NathanBowmanGeoscience/NathanBowmanGeoscience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a geologist with a keen interest in economic geology, geochemistry, and spatial data analysis.
 
-Here are some ideas to get you started:
+### :microscope: Research interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Spatial data analysis in geoscience**
+
+- Developing practical workflows for analsyizing categorical, discontinous, and partially sampled geologic data
+- Quantifying spatial relationships using computational statistics
+- Exploring how spatial patterns reflect geologic processes 
+
+**Economic geology**
+- Mineral system analysis
+- Mineral prospectivity analysis
+- Understanding distal footprints of ore deposits
+- Ore mineral petrography
+
+### :toolbox: Tools I use
+
+**Python**
+
+- NumPy
+- Pandas
+- SciPy
+- scikit-learn
+
+**GIS**
+
+- ArcGIS
+- QGIS
+
+**Computational methods**
+
+- Monte Carlo simulation
+- Bootstrap resampling
+- Permutation testing
+- Spatial autocorrelation
+- Cluster analysis
+
+👯 **I’m looking to collaborate on:**
+- Any problem 
